@@ -1,1 +1,9 @@
 "hello world"
+
+Common Commands:
+
+1) To Initialise the Folder --> cd <Folder_Name> --> git init
+2) To Add File --> git add <File_Name>
+3) TO Save the Changes --> git commit -m <"message">
+4) To Enter Origin --> git remote add origin https://github.com/Abinesh2808/Sample.git
+5) To Add file to Origin --> git push -u origin master
