@@ -7,3 +7,6 @@ Common Commands:
 3) TO Save the Changes --> git commit -m <"message">
 4) To Enter Origin --> git remote add origin https://github.com/Abinesh2808/Sample.git
 5) To Add file to Origin --> git push -u origin master
+
+
+Okay......
